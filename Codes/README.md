@@ -1,4 +1,4 @@
-## CODES OF THE INTERNSHIP
+## CODES OF THE PROJECT
 
 ### Synthesis
 
@@ -16,4 +16,4 @@ In this section, one can find all the codes needed to perform the study. Just tw
 
 ### Copyright
 
-The codes have been developped in ONERA, The French Aerospace Research Laboratory.
+The codes have been developped in ONERA, The French Aerospace Research Laboratory, and ISAE SUPAERO.
