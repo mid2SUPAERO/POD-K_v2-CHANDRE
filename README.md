@@ -34,7 +34,7 @@ This project has three main stages that have been performed during the last 12 m
 
     - A mesh creator (and the viewer) is used: [GMSH 3.0.6](https://gitlab.onelab.info/gmsh/gmsh/tags), please note that it is not the latest version available!
     
-    - The two main scripts are the [Offline Phase Script](https://github.com/mid2SUPAERO/Stage_CHANDRE_POD/blob/master/Code/aero_struct/study/Offline_aerostruct.py) and the [Online Phase Script](https://github.com/mid2SUPAERO/Stage_CHANDRE_POD/blob/master/Code/aero_struct/study/Online_aerostruct.py)
+    - The two main scripts are the [Offline Phase Script](https://github.com/mid2SUPAERO/POD-K_v2-CHANDRE/blob/master/Codes/aero_struct/study/Offline_aerostruct.py) and the [Online Phase Script](https://github.com/mid2SUPAERO/POD-K_v2-CHANDRE/blob/master/Codes/aero_struct/study/Online_aerostruct.py)
 
 2. Presentation: the support for the presentation can be found inside.
 
